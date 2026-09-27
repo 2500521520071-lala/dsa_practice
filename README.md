@@ -1,2 +1,2 @@
-# dsa_practice
-My data structure and algorithms practice 
+# python_practice
+ 
